@@ -1,0 +1,22 @@
+{
+  "name": "orange",
+  "version": "1.0.0",
+  "description": "d3map",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiangyanglove/orange.git"
+  },
+  "keywords": [
+    "d3"
+  ],
+  "author": "jiangyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jiangyanglove/orange/issues"
+  },
+  "homepage": "https://github.com/jiangyanglove/orange#readme"
+}
